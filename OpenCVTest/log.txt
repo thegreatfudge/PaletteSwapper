@@ -1,0 +1,6 @@
+Numbers of color of the palette image: 16
+Time it took to gather colors from palette image (in milliseconds): 20
+Time it took to create KDTree (in milliseconds): 0
+Numbers of color of the canvas image: 666653
+Time of conversion(in seconds): 7
+Full program duration(in seconds): 9
